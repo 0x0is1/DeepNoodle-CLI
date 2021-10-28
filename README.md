@@ -1,4 +1,4 @@
-# Cricbot 2.0 - ESPN cricket discord bot
+# DeepNoodle - Deepfakes using web based apis (cli)
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/0x0is1off@gmail.com)
 ![Version](https://img.shields.io/badge/Version-1.0-red)
