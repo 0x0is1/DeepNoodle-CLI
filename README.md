@@ -30,7 +30,7 @@ Any device that can run Python3.5+ including raspberry pi and other OS'es.
 
 ## Feedback and bug report
 
-Send feedback or bug report to our developers on this (0x0is1@protonmail.com).
+Send feedback or bug report to our developers on [this](mailto:0x0is1@protonmail.com).
 
 ## Previews
 <img src="./res/preview-1.png" width=50% height=50%> </img>
